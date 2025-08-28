@@ -1,0 +1,62 @@
+[
+  {
+    "email": "e@aol.com",
+    "gpa": 1.95,
+    "profile": {
+      "first_name": "Susana",
+      "last_name": "Gonnely",
+      "gender": "Female",
+      "address": {
+        "street": "760 Express Court",
+        "city": "Obrenovac",
+        "country": "Serbia"
+      }
+    },
+    "stu": "S0060"
+  },
+  {
+    "email": "r@nb.com",
+    "gpa": 3.33,
+    "profile": {
+      "first_name": "Ronna",
+      "last_name": "Gonning",
+      "gender": "Non-binary",
+      "address": {
+        "street": "48 Grim Way",
+        "city": "Metsomtholaba",
+        "country": "Botswana"
+      }
+    },
+    "stu": "S0060"
+  },
+  {
+    "email": "r@gov.com",
+    "gpa": 1.08,
+    "profile": {
+      "first_name": "Reade",
+      "last_name": "Goode",
+      "gender": "Male",
+      "address": {
+        "street": "975 Mendota Center",
+        "city": "Seabra",
+        "country": "Brazil"
+      }
+    },
+    "stu": "S0060"
+  },
+  {
+    "email": "r@sk.com",
+    "gpa": 1.97,
+    "profile": {
+      "first_name": "Row",
+      "last_name": "Goodier",
+      "gender": "Female",
+      "address": {
+        "street": "...",
+        "city": "...",
+        "country": "..."
+      }
+    },
+    "stu": "S0060"
+  }
+]
